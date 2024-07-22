@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsjin1122)](https://github.com/anuraghazra/github-readme-stats)
+
+### 최근 작성한 blog 포스팅
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greendev)](https://velog.io/@greendev/posts)
+
+- [모르는 것 정리](https://pouncing-wind-1c4.notion.site/be2c8008d06a421883b227efde2ffa25?pvs=4)
+
+
 <!--
 **bsjin1122/bsjin1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
