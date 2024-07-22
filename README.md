@@ -5,7 +5,7 @@
 ### 최근 작성한 blog 포스팅
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greendev)](https://velog.io/@greendev/posts)
 
-- [모르는 것 정리](https://www.notion.so/be2c8008d06a421883b227efde2ffa25)
+- 🤔 [모르는 것 정리](https://www.notion.so/be2c8008d06a421883b227efde2ffa25)
 
 
 <!--
