@@ -3,7 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsjin1122)](https://github.com/anuraghazra/github-readme-stats)  &nbsp; &nbsp; 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kitty7579)](https://solved.ac/kitty7579/)
 
-### 최근 작성한 blog 포스팅
+## Today I Learned 
+
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=greendev)](https://velog.io/@greendev) <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greendev)](https://velog.io/@greendev/posts)
 
