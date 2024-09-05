@@ -6,7 +6,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greendev)](https://velog.io/@greendev/posts)
 
-- ✍ [꾸준히 기록/정리하는 공간](https://www.notion.so/be2c8008d06a421883b227efde2ffa25)
+- ✍ [꾸준히 기록/정리하는 공간](https://pouncing-wind-1c4.notion.site/e9043069705e4c6ebbf27feb4495f838)
 
 
 <!--
